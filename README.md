@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP and Javascript
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on web application
-- 📫 How to reach me hichams68@hotmail.fr
+- 📫 How to reach me hichampro68@gmail.com
 
 <!---
 hicham68/hicham68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
